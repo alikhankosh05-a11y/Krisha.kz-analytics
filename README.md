@@ -33,3 +33,15 @@ apartment-price-analyzer/
 ├── README.md
 └── requirements.txt
 ```
+
+
+## 🚀 Quick Start
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/apartment-price-analyzer.git
+cd apartment-price-analyzer
+
+pip install -r requirements.txt
+streamlit run krisha_app.py
